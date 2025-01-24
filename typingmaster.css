@@ -1,0 +1,60 @@
+.speed-Typing-Test-container {
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+    width: 100vw;
+    height: 150vh;
+}
+
+.speed-Typing-Test-container-heading {
+    color: #690cb0;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.speed-Typing-Test-container-para {
+    color: #3e4c59;
+}
+
+.timer {
+    color: #323f4b;
+    font-size: 30px;
+}
+
+span {
+    color: #3e4c59;
+    font-size: 20px;
+}
+
+.speed-Typing-Test-inner-card {
+    border: 1px solid #9aa5b1;
+    background-color: #f2ebfe;
+    border-radius: 10px;
+}
+
+.quote-Display {
+    color: #3e4c59;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.result {
+    color: #323f4b;
+    font-weight: 400;
+}
+
+.submit-Btn {
+    background-color: #690cb0;
+    border: 0px solid #ffffff;
+    border-radius: 5px;
+    color: #ffffff;
+    padding: 6px;
+    width: 100px;
+}
+
+.reset-Btn {
+    background-color: #ffffff;
+    border: 0px solid #ffffff;
+    border-radius: 5px;
+    color: #000000;
+    padding: 6px;
+    width: 100px;
+}
